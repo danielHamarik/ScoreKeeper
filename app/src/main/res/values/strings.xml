@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+
+    <string name="zero">0</string>
+    <string name="zero_p">0p</string>
+
+    <string name="add_score">Score +15p</string>
+</resources>
